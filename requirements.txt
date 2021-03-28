@@ -38,7 +38,7 @@ python-magic
 glitch_this
 PyGithub
 pytesseract
-opencv-python-headless==4.2.0.32
+opencv-python-headless==4.5.1.48
 Telethon==1.21.1
 iplookup
 wget
