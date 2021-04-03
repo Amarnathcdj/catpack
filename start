@@ -38,7 +38,7 @@ _set_bot () {
     sleep 5
     cd $CATPATH
     echo "    Starting LundBor    "
-    python3 -m userbot
+    python3 -m ULTRA
 }
 
 _set_bot
